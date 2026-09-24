@@ -1,0 +1,461 @@
+[
+  {
+    "codigo": "100000",
+    "descripcion": "Quisqueya_Extra_Caja_24_2",
+    "categoria": "BEBIDAS",
+    "nombre_archivo": "100000_Quisqueya_Extra_Caja_24_2.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/100000_Quisqueya_Extra_Caja_24_2.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/100000_Quisqueya_Extra_Caja_24_2.png",
+    "titulo_legible": "Quisqueya Extra Caja 24 2"
+  },
+  {
+    "codigo": "100001",
+    "descripcion": "Quisqueya_Extra_Six_pack_24_2",
+    "categoria": "BEBIDAS",
+    "nombre_archivo": "100001_Quisqueya_Extra_Six_pack_24_2.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/100001_Quisqueya_Extra_Six_pack_24_2.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/100001_Quisqueya_Extra_Six_pack_24_2.png",
+    "titulo_legible": "Quisqueya Extra Six pack 24 2"
+  },
+  {
+    "codigo": "100004",
+    "descripcion": "Malta_India_litro_Caja_12_1",
+    "categoria": "BEBIDAS",
+    "nombre_archivo": "100004_Malta_India_litro_Caja_12_1.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/100004_Malta_India_litro_Caja_12_1.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/100004_Malta_India_litro_Caja_12_1.png",
+    "titulo_legible": "Malta India litro Caja 12 1"
+  },
+  {
+    "codigo": "100005",
+    "descripcion": "Malta_India_12_onzas_Caja_24_2",
+    "categoria": "BEBIDAS",
+    "nombre_archivo": "100005_Malta_India_12_onzas_Caja_24_2.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/100005_Malta_India_12_onzas_Caja_24_2.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/100005_Malta_India_12_onzas_Caja_24_2.png",
+    "titulo_legible": "Malta India 12 onzas Caja 24 2"
+  },
+  {
+    "codigo": "100006",
+    "descripcion": "Malta_India_12_onzas_Six_pack_24_2",
+    "categoria": "BEBIDAS",
+    "nombre_archivo": "100006_Malta_India_12_onzas_Six_pack_24_2.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/100006_Malta_India_12_onzas_Six_pack_24_2.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/100006_Malta_India_12_onzas_Six_pack_24_2.png",
+    "titulo_legible": "Malta India 12 onzas Six pack 24 2"
+  },
+  {
+    "codigo": "100011",
+    "descripcion": "Malta_India_12_onzas_PET_24_unidades",
+    "categoria": "BEBIDAS",
+    "nombre_archivo": "100011_Malta_India_12_onzas_PET_24_unidades.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/100011_Malta_India_12_onzas_PET_24_unidades.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/100011_Malta_India_12_onzas_PET_24_unidades.png",
+    "titulo_legible": "Malta India 12 onzas PET 24 unidades"
+  },
+  {
+    "codigo": "100013",
+    "descripcion": "Malta_India_7_onzas_Caja_24_3",
+    "categoria": "BEBIDAS",
+    "nombre_archivo": "100013_Malta_India_7_onzas_Caja_24_3.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/100013_Malta_India_7_onzas_Caja_24_3.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/100013_Malta_India_7_onzas_Caja_24_3.png",
+    "titulo_legible": "Malta India 7 onzas Caja 24 3"
+  },
+  {
+    "codigo": "100014",
+    "descripcion": "Malta_India_7_onzas_Six_pack_24_3",
+    "categoria": "BEBIDAS",
+    "nombre_archivo": "100014_Malta_India_7_onzas_Six_pack_24_3.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/100014_Malta_India_7_onzas_Six_pack_24_3.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/100014_Malta_India_7_onzas_Six_pack_24_3.png",
+    "titulo_legible": "Malta India 7 onzas Six pack 24 3"
+  },
+  {
+    "codigo": "100017",
+    "descripcion": "Malta_India_8_onzas_PET_24_unidades",
+    "categoria": "BEBIDAS",
+    "nombre_archivo": "100017_Malta_India_8_onzas_PET_24_unidades.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/100017_Malta_India_8_onzas_PET_24_unidades.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/100017_Malta_India_8_onzas_PET_24_unidades.png",
+    "titulo_legible": "Malta India 8 onzas PET 24 unidades"
+  },
+  {
+    "codigo": "100022",
+    "descripcion": "Malta_India_medio_litro_PET_medio_litro",
+    "categoria": "BEBIDAS",
+    "nombre_archivo": "100022_Malta_India_medio_litro_PET_medio_litro.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/100022_Malta_India_medio_litro_PET_medio_litro.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/100022_Malta_India_medio_litro_PET_medio_litro.png",
+    "titulo_legible": "Malta India medio litro PET medio litro"
+  },
+  {
+    "codigo": "100028",
+    "descripcion": "Tiegerbrau_Caja_24_2",
+    "categoria": "BEBIDAS",
+    "nombre_archivo": "100028_Tiegerbrau_Caja_24_2.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/100028_Tiegerbrau_Caja_24_2.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/100028_Tiegerbrau_Caja_24_2.png",
+    "titulo_legible": "Tiegerbrau Caja 24 2"
+  },
+  {
+    "codigo": "100030",
+    "descripcion": "Tiegerbrau_Four_pack_16_2",
+    "categoria": "BEBIDAS",
+    "nombre_archivo": "100030_Tiegerbrau_Four_pack_16_2.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/100030_Tiegerbrau_Four_pack_16_2.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/100030_Tiegerbrau_Four_pack_16_2.png",
+    "titulo_legible": "Tiegerbrau Four pack 16 2"
+  },
+  {
+    "codigo": "100040",
+    "descripcion": "Mabi_Areito_Caja_24_2",
+    "categoria": "BEBIDAS",
+    "nombre_archivo": "100040_Mabi_Areito_Caja_24_2.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/100040_Mabi_Areito_Caja_24_2.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/100040_Mabi_Areito_Caja_24_2.png",
+    "titulo_legible": "Mabi Areito Caja 24 2"
+  },
+  {
+    "codigo": "100041",
+    "descripcion": "Mabi_Areito_Six_pack_24_2",
+    "categoria": "BEBIDAS",
+    "nombre_archivo": "100041_Mabi_Areito_Six_pack_24_2.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/100041_Mabi_Areito_Six_pack_24_2.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/100041_Mabi_Areito_Six_pack_24_2.png",
+    "titulo_legible": "Mabi Areito Six pack 24 2"
+  },
+  {
+    "codigo": "100045",
+    "descripcion": "Agua_Fontina_Agua_Fontina",
+    "categoria": "BEBIDAS",
+    "nombre_archivo": "100045_Agua_Fontina_Agua_Fontina.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/100045_Agua_Fontina_Agua_Fontina.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/100045_Agua_Fontina_Agua_Fontina.png",
+    "titulo_legible": "Agua Fontina Agua Fontina"
+  },
+  {
+    "codigo": "100056",
+    "descripcion": "Malta_India_litro_Bandeja_12_1",
+    "categoria": "BEBIDAS",
+    "nombre_archivo": "100056_Malta_India_litro_Bandeja_12_1.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/100056_Malta_India_litro_Bandeja_12_1.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/100056_Malta_India_litro_Bandeja_12_1.png",
+    "titulo_legible": "Malta India litro Bandeja 12 1"
+  },
+  {
+    "codigo": "100061",
+    "descripcion": "Quisqueya_Extra_Bandeja_24_2",
+    "categoria": "BEBIDAS",
+    "nombre_archivo": "100061_Quisqueya_Extra_Bandeja_24_2.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/100061_Quisqueya_Extra_Bandeja_24_2.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/100061_Quisqueya_Extra_Bandeja_24_2.png",
+    "titulo_legible": "Quisqueya Extra Bandeja 24 2"
+  },
+  {
+    "codigo": "100062",
+    "descripcion": "Mabi_Areito_Bandeja_24_2",
+    "categoria": "BEBIDAS",
+    "nombre_archivo": "100062_Mabi_Areito_Bandeja_24_2.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/100062_Mabi_Areito_Bandeja_24_2.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/100062_Mabi_Areito_Bandeja_24_2.png",
+    "titulo_legible": "Mabi Areito Bandeja 24 2"
+  },
+  {
+    "codigo": "100063",
+    "descripcion": "Malta_India_7_onzas_Bandeja_24_3",
+    "categoria": "BEBIDAS",
+    "nombre_archivo": "100063_Malta_India_7_onzas_Bandeja_24_3.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/100063_Malta_India_7_onzas_Bandeja_24_3.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/100063_Malta_India_7_onzas_Bandeja_24_3.png",
+    "titulo_legible": "Malta India 7 onzas Bandeja 24 3"
+  },
+  {
+    "codigo": "100064",
+    "descripcion": "Tiegerbrau_Bandeja_24_2",
+    "categoria": "BEBIDAS",
+    "nombre_archivo": "100064_Tiegerbrau_Bandeja_24_2.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/100064_Tiegerbrau_Bandeja_24_2.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/100064_Tiegerbrau_Bandeja_24_2.png",
+    "titulo_legible": "Tiegerbrau Bandeja 24 2"
+  },
+  {
+    "codigo": "100065",
+    "descripcion": "Malta_India_12_onzas_Bandeja_24_2",
+    "categoria": "BEBIDAS",
+    "nombre_archivo": "100065_Malta_India_12_onzas_Bandeja_24_2.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/100065_Malta_India_12_onzas_Bandeja_24_2.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/100065_Malta_India_12_onzas_Bandeja_24_2.png",
+    "titulo_legible": "Malta India 12 onzas Bandeja 24 2"
+  },
+  {
+    "codigo": "400002",
+    "descripcion": "Cafe_Bustelo_Regular_lata_12_10",
+    "categoria": "ALIMENTOS",
+    "nombre_archivo": "400002_Cafe_Bustelo_Regular_lata_12_10.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/400002_Cafe_Bustelo_Regular_lata_12_10.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/400002_Cafe_Bustelo_Regular_lata_12_10.png",
+    "titulo_legible": "Cafe Bustelo Regular lata 12 10"
+  },
+  {
+    "codigo": "400003",
+    "descripcion": "Cafe_Bustelo_Descafeinado_lata_12_10",
+    "categoria": "ALIMENTOS",
+    "nombre_archivo": "400003_Cafe_Bustelo_Descafeinado_lata_12_10.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/400003_Cafe_Bustelo_Descafeinado_lata_12_10.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/400003_Cafe_Bustelo_Descafeinado_lata_12_10.png",
+    "titulo_legible": "Cafe Bustelo Descafeinado lata 12 10"
+  },
+  {
+    "codigo": "400005",
+    "descripcion": "Aceite_de_oliva_Betis_Aceite_oliva_extra_virgen_24_4_25",
+    "categoria": "ALIMENTOS",
+    "nombre_archivo": "400005_Aceite_de_oliva_Betis_Aceite_oliva_extra_virgen_24_4_25.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/400005_Aceite_de_oliva_Betis_Aceite_oliva_extra_virgen_24_4_25.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/400005_Aceite_de_oliva_Betis_Aceite_oliva_extra_virgen_24_4_25.png",
+    "titulo_legible": "Aceite de oliva Betis Aceite oliva extra virgen 24 4 25"
+  },
+  {
+    "codigo": "400006",
+    "descripcion": "Aceite_de_oliva_Betis_Aceite_oliva_extra_virgen_24_8_5",
+    "categoria": "ALIMENTOS",
+    "nombre_archivo": "400006_Aceite_de_oliva_Betis_Aceite_oliva_extra_virgen_24_8_5.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/400006_Aceite_de_oliva_Betis_Aceite_oliva_extra_virgen_24_8_5.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/400006_Aceite_de_oliva_Betis_Aceite_oliva_extra_virgen_24_8_5.png",
+    "titulo_legible": "Aceite de oliva Betis Aceite oliva extra virgen 24 8 5"
+  },
+  {
+    "codigo": "400007",
+    "descripcion": "Aceite_de_oliva_Betis_Aceite_oliva_extra_virgen_12_17",
+    "categoria": "ALIMENTOS",
+    "nombre_archivo": "400007_Aceite_de_oliva_Betis_Aceite_oliva_extra_virgen_12_17.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/400007_Aceite_de_oliva_Betis_Aceite_oliva_extra_virgen_12_17.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/400007_Aceite_de_oliva_Betis_Aceite_oliva_extra_virgen_12_17.png",
+    "titulo_legible": "Aceite de oliva Betis Aceite oliva extra virgen 12 17"
+  },
+  {
+    "codigo": "400008",
+    "descripcion": "Aceite_de_oliva_Betis_Aceite_oliva_extra_virgen_4_5_L_lata",
+    "categoria": "ALIMENTOS",
+    "nombre_archivo": "400008_Aceite_de_oliva_Betis_Aceite_oliva_extra_virgen_4_5_L_lata.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/400008_Aceite_de_oliva_Betis_Aceite_oliva_extra_virgen_4_5_L_lata.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/400008_Aceite_de_oliva_Betis_Aceite_oliva_extra_virgen_4_5_L_lata.png",
+    "titulo_legible": "Aceite de oliva Betis Aceite oliva extra virgen 4 5 L lata"
+  },
+  {
+    "codigo": "400009",
+    "descripcion": "Aceite_de_oliva_Betis_Aceite_oliva_extra_virgen_540_20",
+    "categoria": "ALIMENTOS",
+    "nombre_archivo": "400009_Aceite_de_oliva_Betis_Aceite_oliva_extra_virgen_540_20.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/400009_Aceite_de_oliva_Betis_Aceite_oliva_extra_virgen_540_20.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/400009_Aceite_de_oliva_Betis_Aceite_oliva_extra_virgen_540_20.png",
+    "titulo_legible": "Aceite de oliva Betis Aceite oliva extra virgen 540 20"
+  },
+  {
+    "codigo": "400104",
+    "descripcion": "Lilac_Caricia_de_Seda_Jabon_Lilac_Seda_330_g",
+    "categoria": "CUIDADO PERSONAL",
+    "nombre_archivo": "400104_Lilac_Caricia_de_Seda_Jabon_Lilac_Seda_330_g.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/400104_Lilac_Caricia_de_Seda_Jabon_Lilac_Seda_330_g.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/400104_Lilac_Caricia_de_Seda_Jabon_Lilac_Seda_330_g.png",
+    "titulo_legible": "Lilac Caricia de Seda Jabon Lilac Seda 330 g"
+  },
+  {
+    "codigo": "400105",
+    "descripcion": "Lilac_Fresca_Primavera_Jabon_Lilac_Primavera_330_g",
+    "categoria": "CUIDADO PERSONAL",
+    "nombre_archivo": "400105_Lilac_Fresca_Primavera_Jabon_Lilac_Primavera_330_g.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/400105_Lilac_Fresca_Primavera_Jabon_Lilac_Primavera_330_g.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/400105_Lilac_Fresca_Primavera_Jabon_Lilac_Primavera_330_g.png",
+    "titulo_legible": "Lilac Fresca Primavera Jabon Lilac Primavera 330 g"
+  },
+  {
+    "codigo": "400109",
+    "descripcion": "Lilac_Dulce_Amanecer_Jabon_Lilac_Amanecer_330_g",
+    "categoria": "CUIDADO PERSONAL",
+    "nombre_archivo": "400109_Lilac_Dulce_Amanecer_Jabon_Lilac_Amanecer_330_g.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/400109_Lilac_Dulce_Amanecer_Jabon_Lilac_Amanecer_330_g.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/400109_Lilac_Dulce_Amanecer_Jabon_Lilac_Amanecer_330_g.png",
+    "titulo_legible": "Lilac Dulce Amanecer Jabon Lilac Amanecer 330 g"
+  },
+  {
+    "codigo": "400117",
+    "descripcion": "Espumil_500_g_Explosion_Flores_500_g",
+    "categoria": "CUIDADO DEL HOGAR",
+    "nombre_archivo": "400117_Espumil_500_g_Explosion_Flores_500_g.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/400117_Espumil_500_g_Explosion_Flores_500_g.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/400117_Espumil_500_g_Explosion_Flores_500_g.png",
+    "titulo_legible": "Espumil 500 g Explosion Flores 500 g"
+  },
+  {
+    "codigo": "400118",
+    "descripcion": "Espumil_500_g_Explosion_Citrica_500_g",
+    "categoria": "CUIDADO DEL HOGAR",
+    "nombre_archivo": "400118_Espumil_500_g_Explosion_Citrica_500_g.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/400118_Espumil_500_g_Explosion_Citrica_500_g.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/400118_Espumil_500_g_Explosion_Citrica_500_g.png",
+    "titulo_legible": "Espumil 500 g Explosion Citrica 500 g"
+  },
+  {
+    "codigo": "400119",
+    "descripcion": "Espumil_500_g_Explosion_Frescura_500_g",
+    "categoria": "CUIDADO DEL HOGAR",
+    "nombre_archivo": "400119_Espumil_500_g_Explosion_Frescura_500_g.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/400119_Espumil_500_g_Explosion_Frescura_500_g.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/400119_Espumil_500_g_Explosion_Frescura_500_g.png",
+    "titulo_legible": "Espumil 500 g Explosion Frescura 500 g"
+  },
+  {
+    "codigo": "400123",
+    "descripcion": "Vinagre_balsamico_Betis_Vinagre_balsamico_8_5_oz",
+    "categoria": "ALIMENTOS",
+    "nombre_archivo": "400123_Vinagre_balsamico_Betis_Vinagre_balsamico_8_5_oz.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/400123_Vinagre_balsamico_Betis_Vinagre_balsamico_8_5_oz.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/400123_Vinagre_balsamico_Betis_Vinagre_balsamico_8_5_oz.png",
+    "titulo_legible": "Vinagre balsamico Betis Vinagre balsamico 8 5 oz"
+  },
+  {
+    "codigo": "400136",
+    "descripcion": "Espumil_5_kg_Explosion_Citrica_5_kg",
+    "categoria": "CUIDADO DEL HOGAR",
+    "nombre_archivo": "400136_Espumil_5_kg_Explosion_Citrica_5_kg.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/400136_Espumil_5_kg_Explosion_Citrica_5_kg.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/400136_Espumil_5_kg_Explosion_Citrica_5_kg.png",
+    "titulo_legible": "Espumil 5 kg Explosion Citrica 5 kg"
+  },
+  {
+    "codigo": "400145",
+    "descripcion": "Espumil_1_kg_Explosion_Flores_1_kg",
+    "categoria": "CUIDADO DEL HOGAR",
+    "nombre_archivo": "400145_Espumil_1_kg_Explosion_Flores_1_kg.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/400145_Espumil_1_kg_Explosion_Flores_1_kg.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/400145_Espumil_1_kg_Explosion_Flores_1_kg.png",
+    "titulo_legible": "Espumil 1 kg Explosion Flores 1 kg"
+  },
+  {
+    "codigo": "400146",
+    "descripcion": "Espumil_1_kg_Explosion_Citrica_1_kg",
+    "categoria": "CUIDADO DEL HOGAR",
+    "nombre_archivo": "400146_Espumil_1_kg_Explosion_Citrica_1_kg.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/400146_Espumil_1_kg_Explosion_Citrica_1_kg.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/400146_Espumil_1_kg_Explosion_Citrica_1_kg.png",
+    "titulo_legible": "Espumil 1 kg Explosion Citrica 1 kg"
+  },
+  {
+    "codigo": "400147",
+    "descripcion": "Espumil_1_kg_Explosion_Frescura_1_kg",
+    "categoria": "CUIDADO DEL HOGAR",
+    "nombre_archivo": "400147_Espumil_1_kg_Explosion_Frescura_1_kg.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/400147_Espumil_1_kg_Explosion_Frescura_1_kg.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/400147_Espumil_1_kg_Explosion_Frescura_1_kg.png",
+    "titulo_legible": "Espumil 1 kg Explosion Frescura 1 kg"
+  },
+  {
+    "codigo": "400150",
+    "descripcion": "Espumil_2_kg_Explosion_Flores_2_kg",
+    "categoria": "CUIDADO DEL HOGAR",
+    "nombre_archivo": "400150_Espumil_2_kg_Explosion_Flores_2_kg.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/400150_Espumil_2_kg_Explosion_Flores_2_kg.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/400150_Espumil_2_kg_Explosion_Flores_2_kg.png",
+    "titulo_legible": "Espumil 2 kg Explosion Flores 2 kg"
+  },
+  {
+    "codigo": "400152",
+    "descripcion": "Espumil_2_kg_Explosion_Citrica_2_kg",
+    "categoria": "CUIDADO DEL HOGAR",
+    "nombre_archivo": "400152_Espumil_2_kg_Explosion_Citrica_2_kg.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/400152_Espumil_2_kg_Explosion_Citrica_2_kg.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/400152_Espumil_2_kg_Explosion_Citrica_2_kg.png",
+    "titulo_legible": "Espumil 2 kg Explosion Citrica 2 kg"
+  },
+  {
+    "codigo": "400156",
+    "descripcion": "Espumil_5_kg_Explosion_Flores_5_kg",
+    "categoria": "CUIDADO DEL HOGAR",
+    "nombre_archivo": "400156_Espumil_5_kg_Explosion_Flores_5_kg.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/400156_Espumil_5_kg_Explosion_Flores_5_kg.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/400156_Espumil_5_kg_Explosion_Flores_5_kg.png",
+    "titulo_legible": "Espumil 5 kg Explosion Flores 5 kg"
+  },
+  {
+    "codigo": "400159",
+    "descripcion": "Klinpiax_Limon_Lavaplatos_crema_limon_425_g",
+    "categoria": "CUIDADO DEL HOGAR",
+    "nombre_archivo": "400159_Klinpiax_Limon_Lavaplatos_crema_limon_425_g.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/400159_Klinpiax_Limon_Lavaplatos_crema_limon_425_g.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/400159_Klinpiax_Limon_Lavaplatos_crema_limon_425_g.png",
+    "titulo_legible": "Klinpiax Limon Lavaplatos crema limon 425 g"
+  },
+  {
+    "codigo": "400160",
+    "descripcion": "Klinpiax_Citrus_Mango_Lavaplatos_crema_mango_425_g",
+    "categoria": "CUIDADO DEL HOGAR",
+    "nombre_archivo": "400160_Klinpiax_Citrus_Mango_Lavaplatos_crema_mango_425_g.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/400160_Klinpiax_Citrus_Mango_Lavaplatos_crema_mango_425_g.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/400160_Klinpiax_Citrus_Mango_Lavaplatos_crema_mango_425_g.png",
+    "titulo_legible": "Klinpiax Citrus Mango Lavaplatos crema mango 425 g"
+  },
+  {
+    "codigo": "400161",
+    "descripcion": "Klinpiax_Frutos_Rojos_Lavaplatos_crema_frutos_rojos_425_g",
+    "categoria": "CUIDADO DEL HOGAR",
+    "nombre_archivo": "400161_Klinpiax_Frutos_Rojos_Lavaplatos_crema_frutos_rojos_425_g.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/400161_Klinpiax_Frutos_Rojos_Lavaplatos_crema_frutos_rojos_425_g.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/400161_Klinpiax_Frutos_Rojos_Lavaplatos_crema_frutos_rojos_425_g.png",
+    "titulo_legible": "Klinpiax Frutos Rojos Lavaplatos crema frutos rojos 425 g"
+  },
+  {
+    "codigo": "400164",
+    "descripcion": "Klinpiax_Citrus_Mango_Lavaplatos_crema_mango_1_kg",
+    "categoria": "CUIDADO DEL HOGAR",
+    "nombre_archivo": "400164_Klinpiax_Citrus_Mango_Lavaplatos_crema_mango_1_kg.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/400164_Klinpiax_Citrus_Mango_Lavaplatos_crema_mango_1_kg.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/400164_Klinpiax_Citrus_Mango_Lavaplatos_crema_mango_1_kg.png",
+    "titulo_legible": "Klinpiax Citrus Mango Lavaplatos crema mango 1 kg"
+  },
+  {
+    "codigo": "400165",
+    "descripcion": "Klinpiax_Frutos_Rojos_Lavaplatos_crema_frutos_rojos_1_kg",
+    "categoria": "CUIDADO DEL HOGAR",
+    "nombre_archivo": "400165_Klinpiax_Frutos_Rojos_Lavaplatos_crema_frutos_rojos_1_kg.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/400165_Klinpiax_Frutos_Rojos_Lavaplatos_crema_frutos_rojos_1_kg.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/400165_Klinpiax_Frutos_Rojos_Lavaplatos_crema_frutos_rojos_1_kg.png",
+    "titulo_legible": "Klinpiax Frutos Rojos Lavaplatos crema frutos rojos 1 kg"
+  },
+  {
+    "codigo": "400167",
+    "descripcion": "Klinpiax_Limon_Lavaplatos_crema_limon_1_kg",
+    "categoria": "CUIDADO DEL HOGAR",
+    "nombre_archivo": "400167_Klinpiax_Limon_Lavaplatos_crema_limon_1_kg.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/400167_Klinpiax_Limon_Lavaplatos_crema_limon_1_kg.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/400167_Klinpiax_Limon_Lavaplatos_crema_limon_1_kg.png",
+    "titulo_legible": "Klinpiax Limon Lavaplatos crema limon 1 kg"
+  },
+  {
+    "codigo": "400168",
+    "descripcion": "Klinpiax_Limon_Lavaplatos_liquido_limon_750_ml",
+    "categoria": "CUIDADO DEL HOGAR",
+    "nombre_archivo": "400168_Klinpiax_Limon_Lavaplatos_liquido_limon_750_ml.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/400168_Klinpiax_Limon_Lavaplatos_liquido_limon_750_ml.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/400168_Klinpiax_Limon_Lavaplatos_liquido_limon_750_ml.png",
+    "titulo_legible": "Klinpiax Limon Lavaplatos liquido limon 750 ml"
+  },
+  {
+    "codigo": "400183",
+    "descripcion": "Espumil_2_kg_Explosion_Frescura_2_kg",
+    "categoria": "CUIDADO DEL HOGAR",
+    "nombre_archivo": "400183_Espumil_2_kg_Explosion_Frescura_2_kg.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/400183_Espumil_2_kg_Explosion_Frescura_2_kg.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/400183_Espumil_2_kg_Explosion_Frescura_2_kg.png",
+    "titulo_legible": "Espumil 2 kg Explosion Frescura 2 kg"
+  },
+  {
+    "codigo": "400184",
+    "descripcion": "Espumil_5_kg_Explosion_Frescura_5_kg",
+    "categoria": "CUIDADO DEL HOGAR",
+    "nombre_archivo": "400184_Espumil_5_kg_Explosion_Frescura_5_kg.png",
+    "url_sin_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/catalogo_productos_Sin_Fondos/400184_Espumil_5_kg_Explosion_Frescura_5_kg.png",
+    "url_con_fondo": "https://raw.githubusercontent.com/JUANCITOPENA/catalogo_productos/main/imagenes_ultra_hd_Con_Fondos/400184_Espumil_5_kg_Explosion_Frescura_5_kg.png",
+    "titulo_legible": "Espumil 5 kg Explosion Frescura 5 kg"
+  }
+]
